@@ -10,4 +10,5 @@ Personally, I like:
 📖 Reading
 
 Connect with me:
-[GitHub Pages](https://lufarapcode.github.io/portafolio/
+[GitHub Pages](https://lufarapcode.github.io/portafolio/)
+
