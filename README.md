@@ -2,7 +2,7 @@
 
 📚 I’m a data scientist, my passion and my new professional career focus.
 <div align="center">
-  <img align='center' src="https://github.com/lufarapCode/lufarapCode/blob/main/github-contribution-grid-snake.gif" height="" width="500" alt="snake">
+  <img align='center' src="https://github.com/lufarapCode/lufarapCode/blob/main/github-contribution-grid-snake.gif" height="" width="1000" alt="snake">
 </div>
 
 
