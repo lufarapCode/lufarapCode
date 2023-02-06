@@ -1,16 +1,18 @@
 ### Hi I'm Luis Falconí 👋
 
 📚 I’m a data scientist, my passion and my new professional career focus.
+<div align="center">
+  <img align='center' src="https://github.com/lufarapCode/lufarapCode/blob/main/github-contribution-grid-snake.gif" height="" width="500" alt="snake">
+</div>
 
-<img align='right' src="https://github.com/lufarapCode/lufarapCode/blob/main/github-contribution-grid-snake.gif" height="" width="300" alt="snake">
 
 Personally, I like:
-<ol>
+<ul>
   <li>♞ Playing chess</li>
   <li>🥘 Cooking</li>
   <li>📖 Reading</li>
   <li> 🗺 Traveling</li>
-</ol>
+</ul>
 
 <div align="center">
 <h2 align="left"> Some technologies I use: </h4>
