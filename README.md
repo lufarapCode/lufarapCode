@@ -25,7 +25,6 @@ Personally, I like:
 ![SKLEARN](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) \
 ![NUMPY](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![RSTUDIO](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -33,9 +32,3 @@ Personally, I like:
 
 
 </div>
-
- <h2 align="left"> Find me around the web: </h4>
-
- - My portafolio [my portafolio](https://lufarapcode.github.io/portafolio/).
- - And know a little more about my work in [Linkedin](https://www.linkedin.com/in/luis-falconi-analista-soporte-infraestructura/).
- 
