@@ -2,6 +2,8 @@
 
 📚 I’m a data scientist, my passion and my new professional career focus.
 
+<img align='right' src="https://github.com/lufarapCode/lufarapCode/blob/main/github-contribution-grid-snake.gif" height="" width="300" alt="snake">
+
 Personally, I like:
 <ol>
   <li>♞ Playing chess</li>
