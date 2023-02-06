@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi I'm Luis Falconí 👋
 
-<!--
-**lufarapCode/lufarapCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 I’m a data scientist, my passion and my new professional career focus.
 
-Here are some ideas to get you started:
+Personally, I like:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗺 Traveling 
+♞ Playing chess
+🥘 Cooking
+📖 Reading
+
+Connect with me:
+[GitHub Pages](https://lufarapcode.github.io/portafolio/
