@@ -4,10 +4,13 @@
 
 Personally, I like:
 
+<li>
 🗺 Traveling 
 ♞ Playing chess
 🥘 Cooking
 📖 Reading
+</li>
+
 
 Connect with me:
 [GitHub Pages](https://lufarapcode.github.io/portafolio/)
